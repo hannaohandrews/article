@@ -21,5 +21,3 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
-# baby_sleep_calc
